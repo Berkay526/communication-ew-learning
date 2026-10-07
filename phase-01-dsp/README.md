@@ -25,3 +25,7 @@ Understand how signals are **represented, processed, transmitted, and recovered 
 ## Next
 
 **Phase 02 — Wired & Industrial Communication Protocols**
+
+## NOTE
+
+Notebooks and experiment codes was written with AI assistance (Claude). Observations and key takeaways are my own unless marked otherwise.
